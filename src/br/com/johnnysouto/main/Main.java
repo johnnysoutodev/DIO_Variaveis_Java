@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         int i;
-        int 1;
+//        int 1;
         int _1a;
         int $aq = 7;
 
